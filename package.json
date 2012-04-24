@@ -10,5 +10,8 @@
   "main": "callresp.js",
   "engines": {
     "node": ">=0.7.6"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
   }
 }
