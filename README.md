@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/isaacs/cluster-callresp.png)](http://travis-ci.org/isaacs/cluster-callresp)
 # cluster-callresp
 
 An easy way to set up "call and response" type messages using node's
